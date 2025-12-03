@@ -1,0 +1,2 @@
+# Supermarket_Management_System
+学习C语言的第一个小项目：超市管理系统
